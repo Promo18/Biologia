@@ -22,6 +22,8 @@ El vapor pasaba a la cámara gaseosa, donde se aplicaban descargas eléctricas a
 
 Tras varios días de funcionamiento, la solución adquirió un color marrón rojizo. Al analizarla, Miller identificó la presencia de aminoácidos como glicina y alanina, compuestos esenciales para las proteínas (Lazcano & Bada, 2003).
 
+![Portada del libro](../img/eso.jpg)
+
 ---
 
 ## Resultados obtenidos
