@@ -4,7 +4,8 @@ layout: page
 ---
 
 
-# Hola mundo
+# Evidencias experimentales del surgimiento químico de la vida: legado de Miller y Urey
+
 ## Introducción teórica
 
 En 1953, Stanley L. Miller y Harold C. Urey realizaron un experimento que transformó el estudio del origen de la vida al demostrar que moléculas orgánicas simples podían formarse espontáneamente bajo condiciones similares a las de la Tierra primitiva (Lazcano & Bada, 2003).  
